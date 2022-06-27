@@ -1,1 +1,7 @@
 First File
+
+//--branch newer-branch added and following text appended to this branch-->
+
+First line in newer-branch
+
+//--end--// 
